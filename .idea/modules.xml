@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Insurance-Management-Platform.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Insurance-Management-Platform.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.waris.insurance.Insurance-Management-Platform.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.waris.insurance.Insurance-Management-Platform.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Insurance-Management-System.iml" filepath="$PROJECT_DIR$/.idea/Insurance-Management-System.iml" />
     </modules>
   </component>
 </project>
