@@ -1,6 +1,6 @@
 # Insurance-Management-System
 
-##controller package contains: Controllers for Claim,Client,Insurance Policy.
+## controller package contains: Controllers for Claim,Client,Insurance Policy.
 ##dao package contains Data Access layer for entity class.
 ##entity package contains the entity classof the project Claim,Client,InsurancePolicy class.
 ##exception package have NoSuchClientExistException class to handle the exception.
